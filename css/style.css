@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@700&display=swap');
+
+body {
+    font-family: 'Baloo Bhai 2';
+}
+
+#myCanvas {
+    border: black 1px solid;
+    margin: 0 auto;
+    display: block;
+}
+
+.main {
+    border: black 1px solid;
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    background-image: url(../image/background.svg);
+}
+
+.main h1 {
+    color: white;
+    text-align: right;
+    font-size: 3.2rem;
+    line-height: 3.2rem;
+    margin: 13%;
+}
+
+.main a {
+    text-decoration: none;
+    color: #89bad5;
+    background-color: white;
+    border: #c3e2ef solid 8px;
+    border-radius: 15px;
+    padding: 0 15px;
+    font-size: 2.5rem;
+    float: right;
+    margin-right: 13%;
+}
