@@ -16,14 +16,14 @@ Take your snowman-building skills to the next level by dressing up your creation
 
 ## Make the Snowman Dance:
 
-Now, it's time to add some holiday cheer and watch your snowman come to life! Use the interactive controls to make your snowman dance to your favorite holiday tunes.Share the joy with friends and family by showcasing your dancing snowman and spreading holiday cheer.
+Now, it's time to add some holiday cheer and watch your snowman come to life! Use the interactive controls to make your snowman dance to your favorite holiday tunes. Share the joy with friends and family by showcasing your dancing snowman and spreading holiday cheer.
 
 <div align="center">
-<img src="./image/background.svg" alt="Snowman" width="250px" title="Snowman"/>
+    <img src="./image/background.svg" alt="Snowman" width="250px" title="Snowman"/>
 </div>
 
-Credits:
+### Credits:
 
-- Art & Design (UI/UX): @Mo-ong
+- Art & Design (UI/UX): [@Eunhee Myung](https://www.linkedin.com/in/eunhee-myung-808422195/)
 
 Our "Snowman Canvas: Dress-Up and Dance" is not just a creative outlet; it's a heartwarming and festive experience that allows you to celebrate the magic of the season in a unique and engaging way. Whether you're a child or simply young at heart, this project is sure to bring a smile to your face and spread holiday spirit to all who join in the fun. Start building, dressing, and dancing with your snowman today!
